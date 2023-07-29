@@ -354,6 +354,6 @@ function link(_link) {
     }, 200);
   } else {
     location.href =
-      "service/go/" + __uv$config.encodeUrl("https://radon.games/");
+      "service/go/" + __uv$config.encodeUrl("https://boofdev.eu.org/");
   }
 }
